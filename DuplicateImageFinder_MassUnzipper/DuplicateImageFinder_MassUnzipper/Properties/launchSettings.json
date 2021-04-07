@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DuplicateImageFinder_MassUnzipper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\white\\Desktop\\Misc\\Code Tests\\OpaCodeTests\\JoeBackup\" --z"
+    }
+  }
+}

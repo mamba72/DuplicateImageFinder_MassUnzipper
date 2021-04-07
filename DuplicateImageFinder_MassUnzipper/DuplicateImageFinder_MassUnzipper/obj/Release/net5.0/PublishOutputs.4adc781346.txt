@@ -1,0 +1,5 @@
+C:\Users\white\Desktop\Misc\Code Tests\OpaCodeTests\PublishedCSharpCode\DuplicateImageFinder_MassUnzipper.exe
+C:\Users\white\Desktop\Misc\Code Tests\OpaCodeTests\PublishedCSharpCode\DuplicateImageFinder_MassUnzipper.dll
+C:\Users\white\Desktop\Misc\Code Tests\OpaCodeTests\PublishedCSharpCode\DuplicateImageFinder_MassUnzipper.deps.json
+C:\Users\white\Desktop\Misc\Code Tests\OpaCodeTests\PublishedCSharpCode\DuplicateImageFinder_MassUnzipper.runtimeconfig.json
+C:\Users\white\Desktop\Misc\Code Tests\OpaCodeTests\PublishedCSharpCode\DuplicateImageFinder_MassUnzipper.pdb
